@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Flitto_KimEunchan</string>
+
+    <string name="main_search_edthint">Search Book..</string>
+    <string name="main_search_prepare">검색 대기중....</string>
+    <string name="main_search_nolist">검색결과가 없습니다!</string>
+    <string name="main_search_error">서버와 통신중 오류발생!</string>
+
+    <string name="isempty">검색어를 입력해주세요.</string>
+    <string name="retry">다시 시도해주세요.</string>
+
+
+    <string name="book_title" formatted="false">Title : %s</string>
+    <string name="book_subtitle" formatted="false">SubTitle : %s</string>
+    <string name="book_author" formatted="false">Author : %s</string>
+    <string name="book_price" formatted="false">Price : %s</string>
+    <string name="book_desc" formatted="false">Desc : %s</string>
+
+    <string name="isbn_key">isbn</string>
+
+</resources>
